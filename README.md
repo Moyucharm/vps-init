@@ -28,7 +28,7 @@
 
 ```bash
 # 下载脚本
-curl -O https://github.com/Moyucharm/vps-init/init-linux-server.sh
+curl -O https://raw.githubusercontent.com/Moyucharm/vps-init/refs/heads/main/init-linux-server.sh
 
 # 执行（需要 root）
 sudo bash init-linux-server.sh
